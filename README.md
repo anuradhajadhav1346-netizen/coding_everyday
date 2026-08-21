@@ -21,6 +21,8 @@ Checks whether the given number is a palindrome or not.
 ## 5. Arithmetic Operations
 
 Performs addition, subtraction, multiplication, and division on two numbers.
+## 6. Multiplication Table
+Create the multiplication table of given number.
 
 ## List of Programs
 
@@ -29,3 +31,4 @@ Performs addition, subtraction, multiplication, and division on two numbers.
 3. Greatest of Three Numbers
 4. Palindrome Number
 5. Arithmetic Operations
+6. Multiplication Table
