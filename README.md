@@ -23,6 +23,8 @@ Checks whether the given number is a palindrome or not.
 Performs addition, subtraction, multiplication, and division on two numbers.
 ## 6. Multiplication Table
 Create the multiplication table of given number.
+## 7. Reverse number
+Reverse the given number in backward.
 
 ## List of Programs
 
@@ -32,3 +34,4 @@ Create the multiplication table of given number.
 4. Palindrome Number
 5. Arithmetic Operations
 6. Multiplication Table
+7. Reverse number
