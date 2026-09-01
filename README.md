@@ -25,6 +25,8 @@ Performs addition, subtraction, multiplication, and division on two numbers.
 Create the multiplication table of given number.
 ## 7. Reverse number
 Reverse the given number in backward.
+## 8. Factorial 
+The program gives factorial of given number.
 
 ## List of Programs
 
@@ -35,3 +37,4 @@ Reverse the given number in backward.
 5. Arithmetic Operations
 6. Multiplication Table
 7. Reverse number
+8. Factorial 
