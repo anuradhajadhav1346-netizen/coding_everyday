@@ -27,6 +27,8 @@ Create the multiplication table of given number.
 Reverse the given number in backward.
 ## 8. Factorial 
 The program gives factorial of given number.
+## 9. Power to the index
+To find power to the index
 
 ## List of Programs
 
@@ -38,3 +40,4 @@ The program gives factorial of given number.
 6. Multiplication Table
 7. Reverse number
 8. Factorial 
+9. Power to the index
