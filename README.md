@@ -33,7 +33,8 @@ To find power to the index.
 To find fibonacci seris from 0 to n.
 ## 11. Prime or not 
 To find whether the given number is prime or not.
-
+## 12.Find prime number.
+To find prime number between the given renge.
 
 
 
@@ -50,3 +51,4 @@ To find whether the given number is prime or not.
 9. Power to the index
 10. Fibonacci seris 
 11. Prime or not
+12. Find prime number
