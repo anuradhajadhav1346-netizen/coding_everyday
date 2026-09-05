@@ -31,6 +31,11 @@ The program gives factorial of given number.
 To find power to the index.
 ## 10. Fibonacci seris 
 To find fibonacci seris from 0 to n.
+## 11. Prime or not 
+To find whether the given number is prime or not.
+
+
+
 
 ## List of Programs
 
@@ -44,3 +49,4 @@ To find fibonacci seris from 0 to n.
 8. Factorial 
 9. Power to the index
 10. Fibonacci seris 
+11. Prime or not
