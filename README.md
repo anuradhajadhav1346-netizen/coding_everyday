@@ -16,3 +16,4 @@ i want to do code every day..
 10. Fibonacci seris 
 11. Prime or not
 12. Find prime number
+13. Find binary form of number.
