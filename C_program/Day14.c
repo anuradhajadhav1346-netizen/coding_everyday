@@ -1,30 +1,30 @@
 #include <stdio.h>
-int fibonacci(int n);
+int fibonacci(int a);
 int main()
 {
-  int n,i;
+  int a,i;
 printf("Enter value of n=");
-scanf("%d",&n);
-if (n<=0)
+scanf("%d",&a);
+if (a<=0)
 {
 printf ("Please enter positive number");
 }
 else{
-      printf("Fibonacci series are=%d",fibonacci(n));
+      printf("Fibonacci series are=%d",fibonacci(a));
 }
 }
-int fibonacci(int n)
+int fibonacci(int a)
 {
-  if(n==0)
+  if(a==0)
 {
   return 0;
 }
 else
-if (n==1)
+if (a==1)
 {
 return 1;}
 else
 {
-  return fibonacci(n-1)+fibonacci(n-2);
+  return fibonacci(a-1)+fibonacci(a-2);
 }
 }
