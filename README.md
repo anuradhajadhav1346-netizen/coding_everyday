@@ -17,4 +17,4 @@ i want to do code every day..
 11. Prime or not
 12. Find prime number
 13. Find binary form of number.
-14. Fibonacci seris usung function.
+14. Fibonacci seris using recursive function.
