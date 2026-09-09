@@ -33,5 +33,5 @@ int calculate(float a,float b,char op)
                     }
         default: pritnf("Invalied opration");
     }
-    return 0;
+    
 }
