@@ -18,3 +18,4 @@ i want to do code every day..
 12. Find prime number
 13. Find binary form of number.
 14. Fibonacci seris using recursive function.
+15. Perform oprations on data.
