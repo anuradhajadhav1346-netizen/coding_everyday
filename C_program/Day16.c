@@ -12,7 +12,7 @@ float calculator(float a, float b)
 {
     if(b==0)
     {
-        error=1;
+        error = 1;
     }
     else
     {
