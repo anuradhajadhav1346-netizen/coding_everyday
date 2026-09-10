@@ -19,3 +19,4 @@ i want to do code every day..
 13. Find binary form of number.
 14. Fibonacci seris using recursive function.
 15. Perform oprations on data.
+16. calculate division using function.
