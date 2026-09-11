@@ -1,14 +1,17 @@
 #include<stdio.h>
 int main()
 {
-    int i,arr[5],sum=0;
+    int n;
+    printf("How many subjects marks you want to enter=");
+    scanf("%d",&n);
+    int i,arr[n],sum=0;
     float avg;
-    printf("Enter marks of 5 subjects=");
-    for(i=0; i<5; i++)
+    printf("Enter marks of  subjects=");
+    for(i=0; i<n; i++)
     {
         scanf("%d",&arr[i]);
     }
-    for(i=0; i<5; i++)
+    for(i=0; i<n; i++)
     {
         sum= sum+arr[i];
     }
