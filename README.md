@@ -20,4 +20,4 @@ i want to do code every day..
 14. Fibonacci seris using recursive function.
 15. Perform oprations on data.
 16. calculate division using function.
-17. Average of 5 subjects.
+17. Average of given subjects marks.
