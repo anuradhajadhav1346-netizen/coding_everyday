@@ -23,3 +23,4 @@ i want to do code every day..
 16. calculate division using function.
 17. Average of given subjects marks.
 18. Find maximun and minimum number using function.
+19. Search element from array.
