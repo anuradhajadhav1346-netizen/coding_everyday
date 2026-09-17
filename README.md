@@ -25,3 +25,4 @@ i want to do code every day..
 18. Find maximun and minimum number using function.
 19. Search element from array.
 20. Reverse the array elements using function.
+21. Find even and odd elments from array list.
