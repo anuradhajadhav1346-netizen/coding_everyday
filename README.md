@@ -26,3 +26,4 @@ i want to do code every day..
 19. Search element from array.
 20. Reverse the array elements using function.
 21. Find even and odd elments from array list.
+22. Calculate the sum of array elements.
