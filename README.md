@@ -28,3 +28,4 @@ i want to do code every day..
 21. Find even and odd elments from array list.
 22. Calculate the sum of array elements.
 23. Find the count of character in string.
+24. Find the first non repeating character in a given string.
