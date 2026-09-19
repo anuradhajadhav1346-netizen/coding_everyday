@@ -2,15 +2,15 @@
 #include<string.h>
 int main()
 {
-    char str[100],i,ch;
+    char str[100],j,ch;
     int count=0;
     printf("Enter string=");
     gets(str);
     printf("Enter character=");
     scanf("%c",&ch);
-    for(i=0; str[i]!='\0'; i++)
+    for(j=0; str[j]!='\0'; i++)
     {
-        if(str[i]==ch || str[i]== ch+32 || str[i]== ch - 32)
+        if(str[j]==ch || str[j]== ch+32 || str[j]== ch - 32)
         {  
             count++;
         }
