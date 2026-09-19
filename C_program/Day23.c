@@ -10,10 +10,10 @@ int main()
     scanf("%c",&ch);
     for(j=0; str[j]!='\0'; i++)
     {
-        if(str[j]==ch || str[j]== ch+32 || str[j]== ch - 32)
-        {  
-            count++;
-        }
+       if(str[j]==ch || str[j]== ch+32 || str[j]== ch-32)
+       {
+        count++;
+       }
     }
     printf("%d",count);
     return 0;
