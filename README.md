@@ -30,3 +30,4 @@ i want to do code every day..
 23. Find the count of character in string.
 24. Find the first non repeating character in a given string.
 25.  To accept two operands and operator and Perform the operation and print result.
+26. To access student information by structure.
