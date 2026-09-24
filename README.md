@@ -32,3 +32,4 @@ i want to do code every day..
 25.  To accept two operands and operator and Perform the operation and print result.
 26. To access student information by structure.
 27. To accept and print student information using functions.
+28. Allocation of memory at run time to accept the marks of 5 subjects.
