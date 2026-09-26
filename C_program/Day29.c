@@ -2,19 +2,19 @@
 #include<stdlib.h>
 int main()
 {
-    int i,j,row,cols;
+    int i,j,row,col;
     int **arr;
     printf("Enter rows and colums: ");
-    scanf("%d %d",&row ,&cols);
+    scanf("%d %d",&row ,&col);
     arr=(int **)malloc(row * sizeof(int));
     //printf("%d",sizeof(int));
     for(i=0; i<row; i++)
-        arr[i] = (int *)malloc(cols * sizeof(int));
+        arr[i] = (int *)malloc(col * sizeof(int));
 
     printf("Enter elements : \n");
     for(i=0; i<row; i++)
     {
-        for(j=0; j<cols; j++)
+        for(j=0; j<col; j++)
         {
             scanf("%d",&arr[i][j]);
         }
@@ -22,7 +22,7 @@ int main()
     printf("Matrix :\n");
     for(i=0; i<row; i++)
     {
-        for(j=0; j<cols; j++)
+        for(j=0; j<col; j++)
         {
             printf("%d\t",arr[i][j]);
         }printf("\n");
