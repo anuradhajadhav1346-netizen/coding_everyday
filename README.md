@@ -34,3 +34,4 @@ i want to do code every day..
 27. To accept and print student information using functions.
 28. Allocation of memory at run time to accept the marks of 5 subjects.
 29. Accept and print matrix elements at run time.
+30. Search the element using binary search.
