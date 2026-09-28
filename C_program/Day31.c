@@ -30,7 +30,7 @@ int main()
 
 int linear_search(int arr[],int p,int k)
 {
-    int i,count=0;
+    int i;
     for(i=0; i<p; i++)
     {
         if(k==arr[i])
