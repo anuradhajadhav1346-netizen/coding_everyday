@@ -36,4 +36,4 @@ i want to do code every day..
 29. Accept and print matrix elements at run time.
 30. Search the element using binary search.
 31. Search the element using linear search.
-32. bubble sort program.
+32. Sort the array elements using bubble sort.
