@@ -37,3 +37,4 @@ i want to do code every day..
 30. Search the element using binary search.
 31. Search the element using linear search.
 32. Sort the array elements using bubble sort.
+33. Sort the array elements using selection sort.
