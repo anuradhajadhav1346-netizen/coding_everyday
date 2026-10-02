@@ -39,3 +39,4 @@ i want to do code every day..
 32. Sort the array elements using bubble sort.
 33. Sort the array elements using selection sort.
 34. Sort the array elements using insertion sort.
+35. Add the elements into stack and perform stack oprations on that.
