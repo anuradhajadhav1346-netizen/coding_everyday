@@ -69,7 +69,7 @@ void enqueue(struct priority_q *p1,int data,int prio)
     p1->arr[i].prio = prio;
     p1->size++;
 }
-struct item  peek(struct priority_q *p1)
+struct item  peek_item(struct priority_q *p1)
 {
     return p1->arr[0];
 }
@@ -110,7 +110,7 @@ int main()
                         printf("Queue is empty..\n");
                     }
                     else{
-                        struct item temp = peek(&p1);
+                        struct item temp = peek_item(&p1);
                         printf("Value = %d  , priority = %d ",temp.value , temp.prio);
                     }
                     break;
