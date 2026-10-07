@@ -73,7 +73,7 @@ struct item  peek(struct priority_q *p1)
 {
     return p1->arr[0];
 }
-void display(struct priority_q *p1)
+void display_q(struct priority_q *p1)
 {
     for(int i=0; i< p1->size; i++)
     {
@@ -114,7 +114,7 @@ int main()
                         printf("Value = %d  , priority = %d ",temp.value , temp.prio);
                     }
                     break;
-            case 4: display(&p1);
+            case 4: display_q(&p1);
                     break;
         default: printf("Invalied choice..\n");
             break;
