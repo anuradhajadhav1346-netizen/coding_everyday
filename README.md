@@ -42,3 +42,4 @@ i want to do code every day..
 35. Add the elements into stack and perform stack oprations on that.
 36. Create linear queue and perform oprations on that.
 37. Create circular queue and perform oprations on that.
+38. Create priority queue and perform oprations on that.
