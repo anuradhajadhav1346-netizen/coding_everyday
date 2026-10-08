@@ -43,3 +43,4 @@ i want to do code every day..
 36. Create linear queue and perform oprations on that.
 37. Create circular queue and perform oprations on that.
 38. Create priority queue and perform oprations on that.
+39. Create array list and perform oprations on that.
