@@ -141,7 +141,7 @@ int main()
                 printf("Enter position : ");
                 scanf("%d",&pos);
                 insert_pos(&l1, data,pos);
-                 printf("Data added successfully at given positionc..\n");
+                 printf("Data added successfully at given position..\n");
                 }
                 break;
         case 4 : if(empty(&l1))
