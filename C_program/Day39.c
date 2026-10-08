@@ -21,7 +21,7 @@ void delete_first(struct arr_list *l1)
     {
         l1->arr[i-1]=l1->arr[i];
     }
-    l1->size--;
+    (l1->size)--;
 }
 
 void delete_last(struct arr_list *l1)
