@@ -47,3 +47,4 @@ i want to do code every day..
 40. Create a linear linked list and perform oprations on that.
 41. Create a doubly linked list and perform oprations on that.
 42. Create a singly cirdular linear linked list and perform oprations on that.
+43. Create a doubly cirdular linear linked list and perform oprations on that.
