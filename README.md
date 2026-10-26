@@ -1,9 +1,9 @@
 # coding_everyday
 i want to do code every day..
 
-# Basic Programming Programs
+# Basic  C Programming Programs
 
-## List of Programs
+## List of  C Programs
 
 1. Division of Two Numbers
 2. Even or Odd
@@ -48,3 +48,8 @@ i want to do code every day..
 41. Create a doubly linked list and perform oprations on that.
 42. Create a singly cirdular linear linked list and perform oprations on that.
 43. Create a doubly cirdular linear linked list and perform oprations on that.
+
+# Basic  Python Programming Programs
+## List of  C Programs
+1. Division of 2 numbers.
+
