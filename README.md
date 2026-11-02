@@ -52,4 +52,5 @@ i want to do code every day..
 # Basic  Python Programming Programs
 ## List of  C Programs
 1. Division of 2 numbers.
+2. To cheak given number is even or odd.
 
