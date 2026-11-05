@@ -53,4 +53,5 @@ i want to do code every day..
 ## List of  C Programs
 1. Division of 2 numbers.
 2. To cheak given number is even or odd.
+3. Find the greatest number between 3 numbers.
 
